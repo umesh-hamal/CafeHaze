@@ -4,7 +4,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="" width="30%"/>
+<img src="screenshots/logo.png" width="30%"/>
 
 
 # ☕Cafe Haze
@@ -30,13 +30,12 @@
 
 ## 📱App Preview
 
-| Login | Dashboard |
-|--------|------------|
-| <img src="screenshots/login.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> |
-
-| Menu | Billing |
-|------|----------|
-| <img src="screenshots/menu.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> |
+<img src="screenshots/homescreen.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> 
+<img src="screenshots/homescreen2.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> 
+<img src="screenshots/billingscreen.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> 
+<img src="screenshots/favscreen.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> 
+<img src="screenshots/dashboard.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> 
+<img src="screenshots/transaction.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> 
 
 # Welcome to Cafe Haze
 
