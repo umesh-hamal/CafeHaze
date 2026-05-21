@@ -30,12 +30,12 @@
 
 ## 📱App Preview
 
-<img src="screenshots/homescreen.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> 
-<img src="screenshots/homescreen2.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> 
-<img src="screenshots/billingscreen.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> 
-<img src="screenshots/favscreen.png" width="250"/> | <img src="screenshots/dashboard.png" width="250"/> 
-<img src="screenshots/dashboard.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> 
-<img src="screenshots/transaction.png" width="250"/> | <img src="screenshots/billing.png" width="250"/> 
+<img src="screenshots/homescreen.png" width="250"/>  
+<img src="screenshots/homescreen2.png" width="250"/>
+<img src="screenshots/billingscreen.png" width="250"/> 
+<img src="screenshots/favscreen.png" width="250"/>   
+<img src="screenshots/dashboard.png" width="250"/> 
+<img src="screenshots/transaction.png" width="250"/> 
 
 # Welcome to Cafe Haze
 
